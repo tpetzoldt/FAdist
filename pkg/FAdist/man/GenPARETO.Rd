@@ -37,17 +37,9 @@ If \emph{X} is a random variable distributed according to a generalized Pareto d
 
 \value{
 \code{dgp} gives the density, \code{pgp} gives the distribution function, \code{qgp} gives the quantile function, and \code{rgp} generates random deviates.
-
-
 }
+
 \references{Coles, S. (2001) An introduction to statistical modeling of extreme values. Springer}
-
-
-
-\note{}
-
-
-\seealso{}
 
 \examples{
 x <- rgp(1000,-.2,10)
