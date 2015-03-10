@@ -37,15 +37,9 @@ If \emph{Y} is a random variable distributed according to a gamma distribution (
 
 \value{
 \code{dgamma3} gives the density, \code{pgamma3} gives the distribution function, \code{qgamma3} gives the quantile function, and \code{rgamma3} generates random deviates.
-
-
 }
+
 \references{BOBEE, B. and F. ASHKAR (1991). The Gamma Family and Derived Distributions Applied in Hydrology. Water Resources Publications, Littleton, Colo., 217 p.}
-
-
-
-\note{}
-
 
 \seealso{
 	\code{\link{dgamma}}, \code{\link{pgamma}}, \code{\link{qgamma}}, \code{\link{rgamma}}

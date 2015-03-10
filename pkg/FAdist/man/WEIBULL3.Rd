@@ -37,13 +37,7 @@ If \emph{Y} is a random variable distributed according to a Weibull distribution
 
 \value{
 \code{dweibull3} gives the density, \code{pweibull3} gives the distribution function, \code{qweibull3} gives the quantile function, and \code{rweibull3} generates random deviates.
-
-
 }
-\references{}
-
-
-
 
 \seealso{
 	\code{\link{dweibull}}, \code{\link{pweibull}}, \code{\link{qweibull}}, \code{\link{rweibull}}

@@ -36,12 +36,7 @@ log-logistic distribution with shape and scale parameters corresponding to the s
 
 \value{
 \code{dllog} gives the density, \code{pllog} gives the distribution function, \code{qllog} gives the quantile function, and \code{rllog} generates random deviates.
-
-
 }
-\references{}
-
-
 
 \seealso{
 	\code{\link{dlogis}}, \code{\link{plogis}}, \code{\link{qlogis}}, \code{\link{rlogis}}

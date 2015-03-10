@@ -37,13 +37,7 @@ If \emph{Y} is a random variable distributed according to a normal distribution 
 
 \value{
 \code{dlnorm3} gives the density, \code{plnorm3} gives the distribution function, \code{qlnorm3} gives the quantile function, and \code{rlnorm3} generates random deviates.
-
-
 }
-\references{}
-
-
-
 
 \seealso{
 	\code{\link{dnorm}}, \code{\link{pnorm}}, \code{\link{qnorm}}, \code{\link{rnorm}}, \code{\link{dlnorm}}, \code{\link{plnorm}}, \code{\link{qlnorm}}, \code{\link{rlnorm}}

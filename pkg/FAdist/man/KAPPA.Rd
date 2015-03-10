@@ -37,15 +37,7 @@ If \emph{X} is a random variable distributed according to a kappa distribution, 
 
 \value{
 \code{dkappa} gives the density, \code{pkappa} gives the distribution function, \code{qkappa} gives the quantile function, and \code{rkappa} generates random deviates.
-
-
 }
-\references{}
-
-
-
-
-\seealso{}
 
 \examples{
 x <- rkappa(1000,12,10)

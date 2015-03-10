@@ -42,10 +42,6 @@ If \emph{X} is a random variable distributed according to a Gumbel distribution,
 }
 \references{Coles, S. (2001) An introduction to statistical modeling of extreme values. Springer}
 
-
-
-\seealso{}
-
 \examples{
 x <- rgumbel(1000,3,100)
 hist(x,freq=FALSE,col='gray',border='white')

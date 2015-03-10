@@ -38,16 +38,9 @@ If \emph{X} is a random variable distributed according to a generalized extreme 
 
 \value{
 \code{dgev} gives the density, \code{pgev} gives the distribution function, \code{qgev} gives the quantile function, and \code{rgev} generates random deviates.
-
-
 }
+
 \references{Coles, S. (2001) An introduction to statistical modeling of extreme values. Springer}
-
-
-\note{}
-
-
-\seealso{}
 
 \examples{
 x <- rgev(1000,-.1,3,100)
