@@ -5,8 +5,7 @@ Version: 2.1
 Date: 2015-03-10
 Author: Francois Aucoin
 Maintainer: Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>
-Description: This package contains probability distributions that are
-        sometimes useful in hydrology.
+Description: Probability distributions that are sometimes useful in hydrology.
 License: GPL-2
 URL: https://github.com/tpetzoldt/FAdist
 Repository: CRAN
