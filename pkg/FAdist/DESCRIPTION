@@ -8,6 +8,6 @@ Maintainer: Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>
 Description: This package contains probability distributions that are
         sometimes useful in hydrology.
 License: GPL-2
-URL: https://sites.google.com/site/frunkaucoin/
+URL: https://github.com/tpetzoldt/FAdist
 Repository: CRAN
 
