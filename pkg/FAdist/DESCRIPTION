@@ -1,8 +1,9 @@
 Package: FAdist
 Type: Package
 Title: Distributions that are Sometimes Used in Hydrology
-Version: 2.1
-Date: 2015-03-10
+Version: 2.2
+Imports: stats
+Date: 2015-07-07
 Author: Francois Aucoin
 Maintainer: Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>
 Description: Probability distributions that are sometimes useful in hydrology.
