@@ -1,7 +1,7 @@
 Package: FAdist
 Type: Package
 Title: Distributions that are Sometimes Used in Hydrology
-Version: 2.2
+Version: 2.3
 Imports: stats
 Date: 2015-09-06
 Author: Francois Aucoin

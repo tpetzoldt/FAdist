@@ -11,7 +11,7 @@ sometimes useful in hydrology}
 \author{
 Francois Aucoin
 
-Maintainer: Thomas Petzoldt <thomas.petzoldt@tu-dresden,de> in agreement
+Maintainer: Thomas Petzoldt <thomas.petzoldt@tu-dresden.de> in agreement
 with the original author.
 }
 
