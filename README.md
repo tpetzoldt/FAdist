@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FAdist
 Distributions that are sometimes used in hydrology
 
@@ -27,5 +26,3 @@ http://cran.r-project.org/web/packages/FAdist/
 Many thanks to the original author, Francois Aucoin.
 
 Thomas Petzoldt
-
->>>>>>> 5745dd0f6721fa8643ec1913663c733fa3244084
