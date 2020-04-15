@@ -3,7 +3,7 @@ Type: Package
 Title: Distributions that are Sometimes Used in Hydrology
 Version: 2.3
 Imports: stats
-Date: 2020-03-31
+Date: 2020-04-15
 Author: Francois Aucoin
 Maintainer: Thomas Petzoldt <thomas.petzoldt@tu-dresden.de>
 Description: Probability distributions that are sometimes useful in hydrology.
